@@ -33,7 +33,7 @@ bot.on("ready", async () => {
 
     console.log(`${bot.user.username} is online`);
 
-    bot.user.setActivity("HRR Roleplay", { type: "WATCHING" });
+    bot.user.setActivity("de server", { type: "WATCHING" });
 
 });
 
